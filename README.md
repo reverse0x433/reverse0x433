@@ -9,6 +9,6 @@ Currently focused on strengthening fundamentals in **programming, backend develo
 
 ## 🛠️ My Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,cpp,c,bash,java,sqlite,postgres,html,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,cpp,c,bash,java,postgres,html,&perline=6)](https://skillicons.dev)
 
 ---
