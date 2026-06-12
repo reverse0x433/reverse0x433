@@ -28,7 +28,7 @@ I work primarily in Python, building backend APIs and services with Flask and Po
     <img src="https://github-readme-stats-omega-lac-39.vercel.app/api?username=reverse0x433&show_icons=true&count_private=true&hide_border=true" height="165" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-lac-39.vercel.app/api/top-langs/?username=reverse0x433&layout=compact&langs_count=8&hide_border=true&theme=radical">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-lac-39.vercel.app/api/top-langs/?username=reverse0x433&count_private=true&layout=compact&langs_count=8&hide_border=true&theme=radical">
     <img src="https://github-readme-stats-omega-lac-39.vercel.app/api/top-langs/?username=reverse0x433&layout=compact&langs_count=8&hide_border=true" height="165" />
   </picture>
 </p>
