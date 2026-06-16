@@ -8,30 +8,30 @@ I work primarily in Python, building backend APIs and services with Flask and Po
 
 ## 🛠️ My Skills and Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-lac-39.vercel.app/api?username=reverse0x433&show_icons=true&count_private=true&hide_border=true&theme=radical">
-    <img src="https://github-readme-stats-omega-lac-39.vercel.app/api?username=reverse0x433&show_icons=true&count_private=true&hide_border=true" height="165" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-lac-39.vercel.app/api?username=reverse0x433&exclude_repo=leetcode-solutions&show_icons=true&hide_border=true&theme=radical">
+    <img src="https://github-readme-stats-omega-lac-39.vercel.app/api?username=reverse0x433&show_icons=true&hide_border=true" height="165" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-lac-39.vercel.app/api/top-langs/?username=reverse0x433&count_private=true&layout=compact&langs_count=8&hide_border=true&theme=radical">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-omega-lac-39.vercel.app/api/top-langs/?username=reverse0x433&exclude_repo=leetcode-solutions&hide=css&layout=compact&langs_count=8&hide_border=true&theme=radical">
     <img src="https://github-readme-stats-omega-lac-39.vercel.app/api/top-langs/?username=reverse0x433&layout=compact&langs_count=8&hide_border=true" height="165" />
   </picture>
 </p>
